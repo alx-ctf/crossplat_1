@@ -45,6 +45,9 @@ namespace crossplat_1
             Console.WriteLine($"{deposit2} -> {Math.Round(finalAmount2, 2)}");
             Console.WriteLine($"{deposit3} -> {Math.Round(finalAmount3, 2)}");
             Console.WriteLine($"Итоговая сумма по всем вкладам: {Math.Round(finalTotal, 2)} руб.");
+
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
         }
     }
 }
