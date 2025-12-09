@@ -1,3 +1,8 @@
 <Solution>
-  <Project Path="crossplat_1.csproj" Id="092f5cef-533e-4051-9854-786115591125" />
+  <Folder Name="/1_1/">
+    <Project Path="crossplat_1.csproj" Id="092f5cef-533e-4051-9854-786115591125" />
+  </Folder>
+  <Folder Name="/1_2/">
+    <Project Path="../crossplat_1_2/crossplat_1_2.csproj" Id="27d2c274-9bbb-4a84-95f1-fe8b96ad379a" />
+  </Folder>
 </Solution>
